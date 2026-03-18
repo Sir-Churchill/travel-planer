@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+*.db
+travel_app.db
+
+.idea/
+.vscode/
+
+.DS_Store

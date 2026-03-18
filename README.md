@@ -1,6 +1,3 @@
----
-
-```markdown
 # 🎨 Art Travel Planner API
 
 A modern, asynchronous FastAPI service that helps users plan museum trips using the **Art Institute of Chicago (ARTIC)** database. Create travel projects, add world-famous artworks, and track your progress.
